@@ -1,0 +1,18 @@
+# Exclude Python virtual environment
+.venv/
+instruction_old/
+
+# Exclude local embedding script
+input_data.json
+deploy_lambda.sh
+call_lambda.py
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude editor or OS specific files
+*.swp
+.DS_Store
+.env
