@@ -1,0 +1,14 @@
+# Exclude Python virtual environment
+.venv/
+weekly_diet_batch/
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude editor or OS specific files
+*.swp
+.DS_Store
+.env
+.csv
