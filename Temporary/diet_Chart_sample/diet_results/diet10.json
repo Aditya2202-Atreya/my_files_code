@@ -1,0 +1,59 @@
+{
+    "user_info": {
+        "Prakruti": "Pitta",
+        "height": 182,
+        "weight": 88,
+        "age": 58,
+        "gender": "female",
+        "Diet_habit": "Veg",
+        "Health_condition": "Hypertension",
+        "Location": "Beijing, China",
+        "Times_you_eat": "4",
+        "BMI": 26.57,
+        "BMI_Category": "Overweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Quinoa (1/2 cup cooked), Brown rice (1/2 cup cooked), Barley (1/2 cup cooked), Oats (1/2 cup cooked). These are cooling and easy to digest.",
+                "Dont": "Excessive wheat, refined grains, fried grains. These can aggravate Pitta."
+            },
+            "Legume": {
+                "Do": "Mung beans (1/3 cup cooked), Lentils (red or yellow, 1/3 cup cooked), Chickpeas (1/4 cup cooked). Opt for well-cooked and spiced legumes.",
+                "Dont": "Black beans, kidney beans, large quantities of any bean. These can be harder to digest for Pitta."
+            },
+            "Veg": {
+                "Do": "Cucumber (1 cup sliced), Zucchini (1 cup cooked), Broccoli (1 cup cooked), Sweet potatoes (1/2 cup cooked), Green beans (1 cup cooked). Focus on sweet, bitter, and astringent vegetables.",
+                "Dont": "Peppers (all types), tomatoes, eggplant, onions, garlic, radishes. These are pungent and can increase Pitta."
+            },
+            "Spices": {
+                "Do": "Coriander (1/2 tsp), Cumin (1/2 tsp), Fennel (1/2 tsp), Cardamom (1/4 tsp), Turmeric (1/4 tsp). These are cooling and digestive.",
+                "Dont": "Chili peppers, black pepper, ginger (in excess), mustard seeds, asafoetida. These are heating."
+            },
+            "Leafy veg": {
+                "Do": "Cilantro (1/2 cup chopped), Parsley (1/2 cup chopped), Romaine lettuce (1 cup). Lightly cooked or raw in moderation.",
+                "Dont": "Spinach (in excess), mustard greens, fenugreek leaves. These can be too heating or pungent."
+            },
+            "Oil": {
+                "Do": "Ghee (1-2 tsp), Coconut oil (1-2 tsp), Sunflower oil (1-2 tsp). Use in moderation.",
+                "Dont": "Sesame oil, mustard oil, corn oil. These are heating."
+            },
+            "Fruits": {
+                "Do": "Melon (1 cup cubed), Berries (1 cup), Grapes (1 cup), Pears (1 medium), Apples (1 medium, cooked if preferred). Sweet and cooling fruits.",
+                "Dont": "Sour fruits like citrus (in excess), pineapple, papaya. These can be too acidic."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (soaked, 5-7), Walnuts (2-3). Soak almonds to make them more digestible.",
+                "Dont": "Peanuts, cashews, pistachios (in excess), dried dates, figs. These can be heating and heavy."
+            },
+            "Milk product": {
+                "Do": "Cooling milk (1 cup, not too cold), Yogurt (1/2 cup, diluted or with cooling spices), Paneer (2 oz).",
+                "Dont": "Hard cheeses, sour yogurt, buttermilk (in excess). Avoid if lactose intolerant."
+            },
+            "Condiments": {
+                "Do": "Sweet chutney (made from fruits), Mint chutney, Coriander chutney. Small portions.",
+                "Dont": "Spicy pickles, very sour condiments, hot sauces. These can increase Pitta."
+            }
+        }
+    }
+}

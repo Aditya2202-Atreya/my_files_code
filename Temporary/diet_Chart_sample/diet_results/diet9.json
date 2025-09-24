@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Kapha",
+        "height": 181,
+        "weight": 51,
+        "age": 63,
+        "gender": "male",
+        "Diet_habit": "Vegan",
+        "Health_condition": "Diabetes",
+        "Location": "Tokyo, Japan",
+        "Times_you_eat": "2",
+        "BMI": 15.57,
+        "BMI_Category": "Underweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Whole grains like quinoa (1/2 cup cooked), amaranth (1/2 cup cooked), millet (1/2 cup cooked). Focus on cooked grains to aid digestion and add nourishment. Brown rice (1/2 cup cooked) can be included moderately.",
+                "Dont": "Refined grains like white rice, white bread, pastries. Excessive amounts of dry, raw grains."
+            },
+            "Legume": {
+                "Do": "Cooked lentils (1/2 cup), mung beans (1/2 cup), split peas (1/2 cup). Soaking and thorough cooking are essential to reduce gas and improve digestibility for Kapha. Small amounts of chickpeas (1/4 cup cooked) with warming spices.",
+                "Dont": "Large quantities of dry beans, raw legumes, or legumes that tend to cause gas like kidney beans."
+            },
+            "Veg": {
+                "Do": "Cooked, warm, and easily digestible vegetables like asparagus (1 cup), carrots (1 cup), sweet potatoes (1/2 cup), zucchini (1 cup), beets (1/2 cup). Steaming or light saut\u00e9ing is best. Jerusalem artichokes (1/2 cup) are beneficial for diabetes.",
+                "Dont": "Raw vegetables, cold vegetables, heavy vegetables like potatoes (in large amounts), eggplant, tomatoes (can be acidic). Bitter greens in excess."
+            },
+            "Spices": {
+                "Do": "Warming and digestive spices: ginger (1/2 inch fresh or 1/4 tsp dried), cinnamon (1/4 tsp), cardamom (1/4 tsp), cumin (1/4 tsp), turmeric (1/4 tsp), black pepper (pinch). Fenugreek seeds (1/2 tsp soaked overnight and consumed) for diabetes.",
+                "Dont": "Excessive use of very pungent spices like red chili powder. Cold spices like coriander (in large amounts)."
+            },
+            "Leafy veg": {
+                "Do": "Cooked leafy greens like spinach (1 cup cooked), kale (1 cup cooked), mustard greens (1 cup cooked). Lightly saut\u00e9ed with warming spices.",
+                "Dont": "Large quantities of raw leafy greens. Bitter leafy greens in excess."
+            },
+            "Oil": {
+                "Do": "Small amounts of warming oils like ghee (1 tsp for cooking, if tolerated, otherwise skip), sesame oil (1 tsp for cooking or massage), or olive oil (1 tsp for cooking).",
+                "Dont": "Heavy, cold oils. Excessive amounts of any oil."
+            },
+            "Fruits": {
+                "Do": "Warm, ripe, and naturally sweet fruits in moderation: berries (1/2 cup), cooked apples (1/2 apple), pears (1/2 pear), figs (2-3 dried or 1 fresh). Best consumed between meals or earlier in the day.",
+                "Dont": "Sour, unripe, or very cold fruits. Large quantities of fruits, especially those high in natural sugars. Citrus fruits in large amounts."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Small portions of soaked and peeled almonds (4-6), walnuts (2-3 halves). Raisins (1 tbsp soaked) can be included for energy and to balance sweetness.",
+                "Dont": "Large quantities of raw nuts. Heavy, oily nuts like cashews or macadamia nuts. Dry, unsalted nuts."
+            },
+            "Milk product": {
+                "Do": "As vegan, focus on plant-based alternatives. Small amounts of warm plant-based milk (e.g., almond, oat) with digestive spices (1 cup).",
+                "Dont": "Dairy products are avoided as per vegan diet."
+            },
+            "Non-veg": {
+                "Do": "As vegan, no non-veg options.",
+                "Dont": "As vegan, no non-veg options."
+            },
+            "Condiments": {
+                "Do": "Freshly grated ginger, small amounts of lemon juice (diluted in warm water).",
+                "Dont": "Excessively sour, spicy, or cold condiments."
+            }
+        }
+    }
+}

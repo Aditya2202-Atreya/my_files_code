@@ -1,0 +1,59 @@
+{
+    "user_info": {
+        "Prakruti": "Kapha",
+        "height": 158,
+        "weight": 68,
+        "age": 30,
+        "gender": "male",
+        "Diet_habit": "Veg",
+        "Health_condition": "Hypertension",
+        "Location": "Dubai, UAE",
+        "Times_you_eat": "3",
+        "BMI": 27.24,
+        "BMI_Category": "Overweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Barley (1/2 cup cooked), Millet (1/2 cup cooked), Quinoa (1/2 cup cooked). These are light and drying, balancing Kapha.",
+                "Dont": "Refined grains like white rice and white bread. Heavy grains like oats (unless cooked very dry and spiced)."
+            },
+            "Legume": {
+                "Do": "Lentils (red, yellow, split peas) (1/2 cup cooked), Mung beans (1/2 cup cooked). Light, easy to digest.",
+                "Dont": "Heavy beans like kidney beans, chickpeas (in larger quantities), black beans. Soaking and cooking with spices like asafoetida is crucial."
+            },
+            "Veg": {
+                "Do": "Asparagus (1 cup cooked), Broccoli (1 cup cooked), Cauliflower (1 cup cooked), Green beans (1 cup cooked), Bitter Gourd (1/2 cup cooked). All are Kapha-reducing, bitter, and astringent.",
+                "Dont": "Root vegetables like potatoes, sweet potatoes, yams (in large amounts). Tomatoes, cucumbers (especially cold). These increase Kapha."
+            },
+            "Spices": {
+                "Do": "Ginger (1/2 inch fresh or 1/4 tsp dry), Turmeric (1/4 tsp), Cumin (1/4 tsp), Coriander (1/4 tsp), Black Pepper (pinch), Cinnamon (pinch). Warming and digestive.",
+                "Dont": "Heavy, sweet spices like nutmeg (in excess). Overuse of salt. Spices that are too cooling."
+            },
+            "Leafy veg": {
+                "Do": "Spinach (1 cup cooked), Kale (1 cup cooked), Fenugreek leaves (1 cup cooked). Cooked and spiced are best.",
+                "Dont": "Raw leafy greens in large quantities. Watery greens like lettuce (unless spiced)."
+            },
+            "Oil": {
+                "Do": "Ghee (1 tsp), Mustard Oil (1 tsp), Sesame Oil (1 tsp). Use sparingly.",
+                "Dont": "Heavy oils like coconut oil. Excessive amounts of any oil."
+            },
+            "Fruits": {
+                "Do": "Apples (1 small, cooked), Pears (1 small, cooked), Berries (1/2 cup), Pomegranate (1/2 cup). Lighter, astringent fruits are preferred.",
+                "Dont": "Sweet, heavy, and watery fruits like bananas, avocados, mangoes, melons. Cold fruits."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (soaked and peeled, 5-7), Walnuts (2-3). Consume in moderation.",
+                "Dont": "Cashews, pistachios, macadamia nuts. Dried fruits like dates and raisins (in excess)."
+            },
+            "Milk product": {
+                "Do": "Buttermilk (1 cup, spiced with cumin and ginger), Small amounts of goat's milk yogurt (1/4 cup).",
+                "Dont": "Full-fat milk, cheese, ice cream, heavy yogurt. These are Kapha-aggravating."
+            },
+            "Condiments": {
+                "Do": "Lemon juice (1 tsp), Ginger-mint chutney (1 tbsp), Spiced vinegar (1 tsp).",
+                "Dont": "Heavy, sweet chutneys. Salted butter. Fermented foods in excess."
+            }
+        }
+    }
+}

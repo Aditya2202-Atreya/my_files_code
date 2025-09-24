@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Kapha",
+        "height": 168,
+        "weight": 60,
+        "age": 37,
+        "gender": "male",
+        "Diet_habit": "Non-Veg",
+        "Health_condition": "Hypertension",
+        "Location": "New York, USA",
+        "Times_you_eat": "5",
+        "BMI": 21.26,
+        "BMI_Category": "Normal"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Barley (1-2 cups cooked), Buckwheat (1 cup cooked), Millet (1 cup cooked). Focus on lighter, easier-to-digest grains.",
+                "Dont": "Wheat, rice, oats (in excess). Heavy, processed grains can increase Kapha."
+            },
+            "Legume": {
+                "Do": "Mung dal (1/2 cup cooked), Red lentils (1/2 cup cooked). Light and easy to digest.",
+                "Dont": "Chickpeas, kidney beans, black beans (in excess). Can be heavier and increase Kapha."
+            },
+            "Veg": {
+                "Do": "Asparagus (1 cup steamed), Broccoli (1 cup steamed), Cauliflower (1 cup steamed), Green beans (1 cup steamed). Bitter, pungent, and astringent vegetables are best.",
+                "Dont": "Potatoes, sweet potatoes, tomatoes, zucchini (in excess). These can be too grounding and increase Kapha."
+            },
+            "Spices": {
+                "Do": "Ginger (fresh, 1 tsp grated), Turmeric (1/2 tsp), Cumin (1/2 tsp), Black pepper (1/4 tsp). Stimulating spices aid digestion.",
+                "Dont": "Too much salt. Excessive salt can contribute to fluid retention and hypertension."
+            },
+            "Leafy veg": {
+                "Do": "Kale (1 cup steamed), Spinach (1 cup steamed), Dandelion greens (1 cup steamed). Bitter and pungent greens are ideal.",
+                "Dont": "Lettuce (in excess). Can be too cooling and heavy."
+            },
+            "Oil": {
+                "Do": "Mustard oil (1-2 tsp), Ghee (1-2 tsp). Warm and stimulating oils.",
+                "Dont": "Coconut oil, sesame oil (in excess). Can be too heavy and cooling."
+            },
+            "Fruits": {
+                "Do": "Apples (1 medium, baked), Pears (1 medium, baked), Berries (1 cup). Light, astringent, and slightly sweet fruits.",
+                "Dont": "Bananas, avocados, mangoes, melons (in excess). These are too heavy and sweet."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (5-7 soaked), Walnuts (2-3). In moderation due to Kapha nature.",
+                "Dont": "Cashews, pistachios, dates (in excess). Can be too heavy and increase Kapha."
+            },
+            "Milk product": {
+                "Do": "Low-fat buttermilk (1 cup), Goat milk (1 cup). Warm and diluted if needed.",
+                "Dont": "Full-fat milk, cheese, yogurt (especially cold and sour). These are heavy and increase Kapha."
+            },
+            "Non-veg": {
+                "Do": "Lean chicken breast (3-4 oz grilled/baked), Turkey (3-4 oz grilled/baked), White fish (3-4 oz baked). Lighter, cooked proteins.",
+                "Dont": "Red meat, fatty fish, fried or processed meats. These are heavy and hard to digest."
+            },
+            "Condiments": {
+                "Do": "Lemon juice (1 tsp), Tamarind paste (1/2 tsp). For a pungent and sour taste to stimulate digestion.",
+                "Dont": "Sweet chutneys, heavy sauces. Can increase Kapha and be difficult to digest."
+            }
+        }
+    }
+}

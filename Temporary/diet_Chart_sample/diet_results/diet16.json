@@ -1,0 +1,59 @@
+{
+    "user_info": {
+        "Prakruti": "Pitta",
+        "height": 187,
+        "weight": 49,
+        "age": 67,
+        "gender": "male",
+        "Diet_habit": "Veg",
+        "Health_condition": "Hypertension",
+        "Location": "Tokyo, Japan",
+        "Times_you_eat": "3",
+        "BMI": 14.01,
+        "BMI_Category": "Underweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Quinoa (1 cup cooked), Basmati Rice (1 cup cooked), Oats (1/2 cup dry), Barley (1 cup cooked). Focus on cooling grains.",
+                "Dont": "Spicy grains, fried grains, excessive whole wheat if it causes heat."
+            },
+            "Legume": {
+                "Do": "Mung Dal (1/2 cup cooked), Lentils (1/2 cup cooked), Chickpeas (1/2 cup cooked). Opt for easily digestible dals.",
+                "Dont": "Heavy beans like kidney beans, black beans in large quantities."
+            },
+            "Veg": {
+                "Do": "Cucumber (1 cup sliced), Zucchini (1 cup cooked), Broccoli (1 cup steamed), Sweet Potato (1/2 cup cooked). Cooked vegetables are generally better for weight gain.",
+                "Dont": "Extremely pungent or spicy vegetables like radishes, hot peppers. Avoid raw vegetables in excess if digestion is weak."
+            },
+            "Spices": {
+                "Do": "Coriander, Cumin, Fennel, Cardamom, Turmeric. Mild, cooling spices.",
+                "Dont": "Chili peppers, mustard seeds, black pepper in excess. Avoid very heating spices."
+            },
+            "Leafy veg": {
+                "Do": "Spinach (1 cup cooked), Swiss Chard (1 cup cooked), Kale (1 cup cooked). Cooked leafy greens are preferred.",
+                "Dont": "Raw leafy greens in large amounts, bitter greens like arugula if too heating."
+            },
+            "Oil": {
+                "Do": "Ghee (1-2 tbsp), Coconut Oil (1-2 tbsp), Olive Oil (1-2 tbsp). Healthy fats to support weight gain and cool Pitta.",
+                "Dont": "Excessive fried oils, pungent oils."
+            },
+            "Fruits": {
+                "Do": "Sweet Mango (1 cup), Grapes (1 cup), Pears (1 medium), Melons (1 cup). Naturally sweet and cooling fruits.",
+                "Dont": "Sour fruits like unripe bananas, citrus fruits in excess (can increase acidity)."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (soaked, 5-7), Walnuts (3-4), Dates (2-3). These are grounding and nourishing.",
+                "Dont": "Pistachios and cashews in excess (can be heating). Avoid dry fruits if they cause digestive issues."
+            },
+            "Milk product": {
+                "Do": "Ghee (already mentioned), Sweet Lassi (1 cup), Yogurt (1/2 cup, diluted or blended with water). Dairy can be grounding and nourishing.",
+                "Dont": "Sour or old yogurt, excessive cheese."
+            },
+            "Condiments": {
+                "Do": "Mild chutneys made with cooling fruits, dates or coconut. Herbal teas (mint, chamomile).",
+                "Dont": "Spicy pickles, vinegar-based condiments."
+            }
+        }
+    }
+}

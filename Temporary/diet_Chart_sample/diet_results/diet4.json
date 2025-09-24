@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Vata",
+        "height": 168,
+        "weight": 51,
+        "age": 50,
+        "gender": "male",
+        "Diet_habit": "Non-Veg",
+        "Health_condition": "Diabetes",
+        "Location": "Seoul, South Korea",
+        "Times_you_eat": "3",
+        "BMI": 18.07,
+        "BMI_Category": "Underweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Warm, cooked whole grains like basmati rice (1/2 cup cooked), quinoa (1/2 cup cooked), amaranth (1/2 cup cooked), oats (1/2 cup cooked). Focus on grounding and nourishing grains.",
+                "Dont": "Dry, cold, and light grains like puffed rice, crackers, excessive amounts of barley. Avoid refined flours like white bread and pasta."
+            },
+            "Legume": {
+                "Do": "Well-cooked and easily digestible legumes like moong dal (1/2 cup cooked), red lentils (1/2 cup cooked), small amounts of black beans (1/4 cup cooked). Soaking and sprouting can improve digestibility.",
+                "Dont": "Large, dry, and gas-producing legumes like chickpeas, kidney beans, soybeans in large quantities. Avoid raw or undercooked legumes."
+            },
+            "Veg": {
+                "Do": "Cooked, warm, and grounding vegetables like sweet potatoes (1/2 cup cooked), carrots (1/2 cup cooked), beets (1/4 cup cooked), zucchini (1/2 cup cooked), squash (1/2 cup cooked).",
+                "Dont": "Raw, cold, and bitter vegetables like raw salads, broccoli, cauliflower, Brussels sprouts in excess. Avoid extremely bitter or pungent vegetables."
+            },
+            "Spices": {
+                "Do": "Warming and digestive spices like ginger (1/2 inch fresh or 1/4 tsp dried), cinnamon (1/4 tsp), cardamom (1 pod), turmeric (1/4 tsp), cumin (1/4 tsp), black pepper (pinch).",
+                "Dont": "Excessively pungent, hot, or drying spices that can aggravate Vata and blood sugar. Limit chili peppers and very sour spices."
+            },
+            "Leafy veg": {
+                "Do": "Cooked leafy greens like spinach (1/2 cup cooked), kale (1/2 cup cooked), chard (1/2 cup cooked) gently saut\u00e9ed with ghee or oil. Ensure they are well-cooked.",
+                "Dont": "Large amounts of raw leafy greens, especially bitter varieties. Avoid excessive amounts of bitter gourd."
+            },
+            "Oil": {
+                "Do": "Warming and nourishing oils like ghee (1-2 tsp), sesame oil (1-2 tsp), olive oil (1-2 tsp). Use for cooking and saut\u00e9ing.",
+                "Dont": "Excessively cold or drying oils. Avoid fried foods cooked in old oil."
+            },
+            "Fruits": {
+                "Do": "Sweet, ripe, and grounding fruits like ripe bananas (1 small), cooked apples (1/2), cooked pears (1/2), dates (2-3), figs (2-3).",
+                "Dont": "Sour, astringent, or unripe fruits like raw berries, citrus fruits in excess, pomegranates. Avoid dried fruits without soaking."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Soaked and peeled nuts like almonds (4-6 soaked), walnuts (2-3 halves), and sweet dried fruits like dates (2-3), figs (2-3).",
+                "Dont": "Large quantities of dry, light, or raw nuts. Avoid unsalted and unroasted nuts in excess."
+            },
+            "Milk product": {
+                "Do": "Warm, nourishing dairy like warm whole milk (1/2 cup, preferably organic and grass-fed), small amounts of ghee, and yogurt that is not too sour and consumed at room temperature (1/4 cup).",
+                "Dont": "Cold milk, ice cream, very sour yogurt, hard cheeses. Avoid large quantities of dairy."
+            },
+            "Non-veg": {
+                "Do": "Warm, cooked, and easily digestible meats like chicken (3-4 oz cooked), fish (3-4 oz cooked), turkey (3-4 oz cooked). Ensure they are well-cooked and moist.",
+                "Dont": "Dry, light, or cold meats. Avoid excessive amounts of red meat. Limit fried or heavily processed meats."
+            },
+            "Condiments": {
+                "Do": "Mild, warming, and savory condiments like a pinch of sea salt, tamari or soy sauce (low sodium, 1 tsp), a small amount of chutney (not too spicy or sour).",
+                "Dont": "Excessively spicy, sour, salty, or astringent condiments. Avoid vinegar-based sauces and very pungent pickles."
+            }
+        }
+    }
+}

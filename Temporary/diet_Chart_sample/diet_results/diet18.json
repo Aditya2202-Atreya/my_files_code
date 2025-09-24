@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Vata",
+        "height": 187,
+        "weight": 59,
+        "age": 29,
+        "gender": "female",
+        "Diet_habit": "Non-Veg",
+        "Health_condition": "None",
+        "Location": "Mumbai, India",
+        "Times_you_eat": "2",
+        "BMI": 16.87,
+        "BMI_Category": "Underweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Warm, cooked grains like quinoa (1 cup cooked), basmati rice (1 cup cooked), oats (1/2 cup dry), whole wheat roti (2 small). Focus on grounding, nourishing grains.",
+                "Dont": "Dry, light, or cold grains like puffed rice, crackers, very stale bread. Avoid excessive consumption of refined grains."
+            },
+            "Legume": {
+                "Do": "Well-cooked and spiced lentils like moong dal (1/2 cup cooked), masoor dal (1/2 cup cooked), split peas (1/2 cup cooked). Start with small, easily digestible portions.",
+                "Dont": "Raw or undercooked legumes, large quantities of beans like rajma or chana, especially if they cause gas. Avoid fermented legumes."
+            },
+            "Veg": {
+                "Do": "Cooked and warming vegetables like sweet potatoes (1 cup cooked), carrots (1 cup cooked), zucchini (1 cup cooked), asparagus (1 cup cooked), beets (1/2 cup cooked). Favor root vegetables and gourds.",
+                "Dont": "Raw, cold, or bitter vegetables like raw salads, broccoli, cauliflower, Brussels sprouts in large amounts. Avoid very pungent vegetables like raw garlic or onion."
+            },
+            "Spices": {
+                "Do": "Warming and digestive spices like ginger (fresh, 1-inch piece), cumin (1 tsp), coriander (1 tsp), cardamom (2-3 pods), turmeric (1/2 tsp). Use liberally in cooking.",
+                "Dont": "Overly pungent, hot, or drying spices like excessive red chili powder, black pepper, mustard seeds in excess. Avoid very bitter spices."
+            },
+            "Leafy veg": {
+                "Do": "Cooked leafy greens like spinach (1 cup cooked), fenugreek leaves (methi) (1 cup cooked), swiss chard (1 cup cooked). Ensure they are well-cooked and warm.",
+                "Dont": "Raw leafy greens, large quantities of very bitter greens like kale in raw form."
+            },
+            "Oil": {
+                "Do": "Warming and grounding oils like ghee (1-2 tbsp), sesame oil (1 tbsp), almond oil (1 tbsp). Use in cooking and for gentle massage.",
+                "Dont": "Excessive use of light or cold oils like sunflower oil, corn oil. Avoid rancid oils."
+            },
+            "Fruits": {
+                "Do": "Sweet, ripe, and juicy fruits like bananas (1 medium), dates (2-3), figs (2-3), ripe mango (1/2 cup), pears (1 medium). Best eaten between meals or as part of breakfast.",
+                "Dont": "Raw, unripe, or very sour fruits like unripe apples, cranberries, dried fruits without soaking (except dates/figs). Avoid fruit juices that are too cold or processed."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Soaked and ground nuts like almonds (5-7 soaked, peeled), walnuts (3-4), pistachios (5-7). Dates (2-3), figs (2-3). Have in moderation, preferably soaked.",
+                "Dont": "Dry, unsoaked nuts in large quantities, roasted and salted nuts. Avoid excessive dry fruits that can be too heating."
+            },
+            "Milk product": {
+                "Do": "Warm, whole milk (1 cup) with spices like cardamom or turmeric, yogurt (1/2 cup) mixed with water (lassi) and spices, ghee (1-2 tbsp).",
+                "Dont": "Cold milk, ice cream, excessive amounts of hard cheeses, yogurt at night. Avoid skimmed or low-fat dairy."
+            },
+            "Non-veg": {
+                "Do": "Well-cooked and easily digestible meats like chicken soup (1 bowl), fish (100g cooked, mild preparation), eggs (1-2 cooked). Focus on nourishing, warm preparations.",
+                "Dont": "Fried or dry meats, heavy red meats, processed meats, raw or undercooked meat. Avoid very spicy non-veg dishes."
+            },
+            "Condiments": {
+                "Do": "Sweet and sour chutneys, mild spice mixes, warm herbal teas like ginger-mint tea. A small amount of rock salt.",
+                "Dont": "Extremely spicy pickles, very sour or fermented condiments, overly processed sauces. Avoid ice-cold beverages."
+            }
+        }
+    }
+}

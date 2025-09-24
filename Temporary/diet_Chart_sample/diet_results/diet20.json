@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Vata Pitta",
+        "height": 171,
+        "weight": 75,
+        "age": 60,
+        "gender": "female",
+        "Diet_habit": "Non-Veg",
+        "Health_condition": "Diabetes",
+        "Location": "Toronto, Canada",
+        "Times_you_eat": "2",
+        "BMI": 25.65,
+        "BMI_Category": "Overweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Quinoa (1/2 cup cooked), Brown Rice (1/2 cup cooked), Oats (1/3 cup dry, cooked with water) - focus on gluten-free and whole grains.",
+                "Dont": "White rice, refined flour products, refined pasta."
+            },
+            "Legume": {
+                "Do": "Lentils (1/2 cup cooked), Mung Dal (1/2 cup cooked), Chickpeas (1/2 cup cooked) - well-cooked and spiced.",
+                "Dont": "Heavier beans like kidney beans, black beans in large quantities."
+            },
+            "Veg": {
+                "Do": "Cooked vegetables: Asparagus (1 cup), Zucchini (1 cup), Sweet Potato (1/2 cup), Broccoli (1 cup) - steamed or lightly saut\u00e9ed.",
+                "Dont": "Raw, cold, or cruciferous vegetables in excess, nightshades like tomatoes and peppers in large amounts if sensitive."
+            },
+            "Spices": {
+                "Do": "Turmeric (1/2 tsp), Ginger (1/2 inch fresh), Cumin (1/2 tsp), Coriander (1/2 tsp), Cinnamon (1/4 tsp) - use generously to aid digestion and blood sugar balance.",
+                "Dont": "Excessive chili, very pungent spices if not well-tolerated."
+            },
+            "Leafy veg": {
+                "Do": "Cooked Spinach (1 cup), Kale (1 cup) - lightly saut\u00e9ed or steamed.",
+                "Dont": "Large amounts of raw leafy greens."
+            },
+            "Oil": {
+                "Do": "Ghee (1 tsp), Coconut Oil (1 tsp), Sesame Oil (1 tsp) - use in moderation for cooking.",
+                "Dont": "Deep frying, excessive amounts of any oil."
+            },
+            "Fruits": {
+                "Do": "Sweet fruits in moderation: Berries (1/2 cup), Apple (1 small, cooked or stewed), Pear (1 small, cooked or stewed).",
+                "Dont": "Sour fruits, dried fruits, overripe fruits, excessive quantities of any fruit."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (4-6 soaked), Walnuts (2-3 halves) - in small, mindful quantities.",
+                "Dont": "Large portions, dry roasted nuts without soaking, cashews in excess."
+            },
+            "Milk product": {
+                "Do": "Warm Milk (1 cup with turmeric or cardamom) - if tolerated, otherwise consider plant-based alternatives like almond milk.",
+                "Dont": "Cold milk, ice cream, cheese, yogurt (especially sour varieties)."
+            },
+            "Non-veg": {
+                "Do": "Lean meats: Chicken breast (3-4 oz, baked or steamed), Fish (3-4 oz, baked or steamed) - focus on easily digestible options.",
+                "Dont": "Red meat, fried meats, processed meats, excessive quantities."
+            },
+            "Condiments": {
+                "Do": "Fresh ginger chutney (1 tsp), Fresh coriander chutney (1 tsp) - in moderation.",
+                "Dont": "Spicy pickles, vinegary sauces, sugar-laden condiments."
+            }
+        }
+    }
+}

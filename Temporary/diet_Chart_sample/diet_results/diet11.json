@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Kapha",
+        "height": 150,
+        "weight": 53,
+        "age": 19,
+        "gender": "male",
+        "Diet_habit": "Non-Veg",
+        "Health_condition": "None",
+        "Location": "Tokyo, Japan",
+        "Times_you_eat": "5",
+        "BMI": 23.56,
+        "BMI_Category": "Normal"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Barley (1 cup cooked), Millet (1 cup cooked), Quinoa (1 cup cooked), Brown Rice (1 cup cooked)",
+                "Dont": "Wheat (large portions), White Rice (large portions), Heavy, processed grains"
+            },
+            "Legume": {
+                "Do": "Lentils (1/2 cup cooked), Mung Beans (1/2 cup cooked), Chickpeas (1/2 cup cooked)",
+                "Dont": "Heavy beans like kidney beans, Black beans (in moderation)"
+            },
+            "Veg": {
+                "Do": "Asparagus (1 cup steamed), Broccoli (1 cup steamed), Bitter Gourd (1/2 cup cooked), Green Beans (1 cup steamed)",
+                "Dont": "Heavy root vegetables like potatoes (in moderation), Sweet potatoes (in moderation), Tomatoes (in moderation)"
+            },
+            "Spices": {
+                "Do": "Ginger (fresh, small piece), Black Pepper (pinch), Turmeric (1/2 tsp), Cinnamon (1/4 tsp)",
+                "Dont": "Excessive salt, Heavy, cooling spices"
+            },
+            "Leafy veg": {
+                "Do": "Spinach (1 cup cooked), Kale (1 cup cooked), Fenugreek Leaves (1 cup cooked)",
+                "Dont": "Raw leafy greens in large quantities"
+            },
+            "Oil": {
+                "Do": "Mustard Oil (1 tsp), Ghee (1 tsp), Olive Oil (1 tsp, used sparingly)",
+                "Dont": "Heavy, oily foods, Excessive amounts of any oil"
+            },
+            "Fruits": {
+                "Do": "Pomegranate (1/2 cup), Apples (1 small, stewed if preferred), Berries (1/2 cup), Dried figs (2-3)",
+                "Dont": "Sweet, heavy fruits like bananas, Mangoes, Melons (in excess)"
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (soaked, 5-7), Walnuts (2-3 halves)",
+                "Dont": "Cashews, Pistachios (in moderation)"
+            },
+            "Milk product": {
+                "Do": "Buttermilk (1 cup, spiced), Goat milk (1 cup, warm)",
+                "Dont": "Heavy cheeses, Yogurt (especially cold), Ice cream"
+            },
+            "Non-veg": {
+                "Do": "Lean chicken (small portion, steamed/grilled), Fish (small portion, steamed/baked)",
+                "Dont": "Red meat, Fried or heavy meats, Dairy with meat"
+            },
+            "Condiments": {
+                "Do": "Lemon juice (small amount), Tamarind (small amount, cooked)",
+                "Dont": "Sweet chutneys, Heavy, creamy sauces"
+            }
+        }
+    }
+}

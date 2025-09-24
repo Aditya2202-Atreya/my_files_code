@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Kapha",
+        "height": 164,
+        "weight": 58,
+        "age": 58,
+        "gender": "female",
+        "Diet_habit": "Non-Veg",
+        "Health_condition": "Diabetes",
+        "Location": "Singapore, Singapore",
+        "Times_you_eat": "2",
+        "BMI": 21.56,
+        "BMI_Category": "Normal"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Barley (1/2 cup cooked), Quinoa (1/2 cup cooked), Millet (1/2 cup cooked). These are lighter grains that pacify Kapha and are beneficial for diabetes.",
+                "Dont": "Refined grains like white rice, white bread, pasta. These can increase Kapha and blood sugar."
+            },
+            "Legume": {
+                "Do": "Mung beans (1/2 cup cooked), Lentils (red or yellow, 1/2 cup cooked). Easily digestible and good for managing blood sugar.",
+                "Dont": "Heavy legumes like black beans, kidney beans. Can be harder to digest for Kapha types."
+            },
+            "Veg": {
+                "Do": "Bitter gourd (1/2 cup cooked), Drumsticks (1/2 cup cooked), Radish (1/2 cup cooked), Asparagus (1 cup steamed), Okra (1/2 cup cooked). Bitter and astringent vegetables help manage diabetes and reduce Kapha.",
+                "Dont": "Heavy, starchy vegetables like potatoes, sweet potatoes, yams. These can increase Kapha and blood sugar."
+            },
+            "Spices": {
+                "Do": "Ginger (1/2 inch fresh or 1/4 tsp powder), Turmeric (1/4 tsp), Fenugreek (1/4 tsp seeds or powder), Cinnamon (1/4 tsp). These spices are excellent for digestion, blood sugar control, and reducing Kapha.",
+                "Dont": "Excessive use of salt. Can lead to fluid retention and aggravate Kapha."
+            },
+            "Leafy veg": {
+                "Do": "Spinach (1 cup cooked), Fenugreek leaves (1 cup cooked), Mustard greens (1 cup cooked). Light, bitter, and astringent greens are beneficial.",
+                "Dont": "Lettuce (iceberg). Lacks nutritional value and can be cooling."
+            },
+            "Oil": {
+                "Do": "Mustard oil (1 tsp), Ghee (1 tsp, preferably clarified butter). Light and warming oils that aid digestion.",
+                "Dont": "Excessive use of any oil, especially heavy oils like coconut oil or sesame oil in large quantities. Moderation is key for Kapha."
+            },
+            "Fruits": {
+                "Do": "Apples (1 small, cooked or raw), Pears (1 small, cooked or raw), Berries (1/2 cup, e.g., blueberries, raspberries). Astringent and bitter fruits are preferred. Cooked fruits are easier to digest.",
+                "Dont": "Sweet and heavy fruits like bananas, mangoes, grapes, melons. Can increase Kapha and blood sugar."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (5-7 soaked, peeled), Walnuts (2-3 halves). Consume in moderation due to their grounding nature.",
+                "Dont": "Cashews, pistachios. These are heavier and can increase Kapha."
+            },
+            "Milk product": {
+                "Do": "Low-fat buttermilk (1 cup). Fermented dairy is easier to digest and helps with Kapha.",
+                "Dont": "Full-fat milk, yogurt, cheese. These are heavy, cold, and increase Kapha."
+            },
+            "Non-veg": {
+                "Do": "Lean chicken breast (2-3 oz, steamed or baked), Fish (2-3 oz, steamed or baked, e.g., mackerel, salmon). Lighter, easier-to-digest proteins.",
+                "Dont": "Red meat, fried meats, heavy dairy-based meat dishes. These are too heavy and can increase Kapha."
+            },
+            "Condiments": {
+                "Do": "Lemon juice (1 tsp), Black pepper (pinch). Stimulates digestion and reduces Kapha.",
+                "Dont": "Sweet pickles, heavy chutneys. Can increase Kapha and sugar."
+            }
+        }
+    }
+}

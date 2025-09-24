@@ -1,0 +1,59 @@
+{
+    "user_info": {
+        "Prakruti": "Kapha",
+        "height": 188,
+        "weight": 50,
+        "age": 65,
+        "gender": "male",
+        "Diet_habit": "Veg",
+        "Health_condition": "Diabetes",
+        "Location": "Beijing, China",
+        "Times_you_eat": "4",
+        "BMI": 14.15,
+        "BMI_Category": "Underweight"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Warm, cooked grains like quinoa (1/2 cup cooked), barley (1/2 cup cooked), and millet (1/2 cup cooked). Focus on smaller portions of easily digestible grains.",
+                "Dont": "Heavy, processed grains like white bread, large portions of rice, especially sticky rice."
+            },
+            "Legume": {
+                "Do": "Lightly cooked and well-spiced legumes like moong dal (1/4 cup cooked) and red lentils (1/4 cup cooked). Ensure they are thoroughly cooked to aid digestion.",
+                "Dont": "Heavy, dense legumes like black beans, chickpeas in large quantities, or raw sprouts."
+            },
+            "Veg": {
+                "Do": "Cooked, warm vegetables like steamed asparagus (1/2 cup), roasted carrots (1/2 cup), and cooked zucchini (1/2 cup). Emphasis on cooked and easily digestible.",
+                "Dont": "Raw, cold, or heavy vegetables like raw broccoli, cauliflower, potatoes, or cucumber."
+            },
+            "Spices": {
+                "Do": "Warming spices like ginger (small piece in tea or cooking), cinnamon (pinch in food), cardamom (1 pod in food), and black pepper (pinch). Turmeric (1/4 tsp) for its anti-inflammatory and blood sugar benefits.",
+                "Dont": "Excessive chili, raw garlic, or very pungent spices that can aggravate Kapha and Pitta."
+            },
+            "Leafy veg": {
+                "Do": "Lightly cooked leafy greens like spinach (1/2 cup cooked) and kale (1/2 cup cooked), seasoned well. Steamed greens are preferred over raw.",
+                "Dont": "Large quantities of raw leafy greens, especially those with a cooling effect."
+            },
+            "Oil": {
+                "Do": "Warm, neutral oils like ghee (1 tsp) and organic sesame oil (1 tsp) in cooking. Use sparingly to aid digestion and add nourishment.",
+                "Dont": "Heavy, cold, or excessive amounts of oil. Fried foods should be avoided."
+            },
+            "Fruits": {
+                "Do": "Warm, ripe, and naturally sweet fruits like cooked apples (1/2 medium), pears (1/2 medium), and small portions of berries (1/4 cup). Warm fruits are easier to digest.",
+                "Dont": "Cold, heavy, or sour fruits like bananas, watermelon, or citrus fruits in large quantities."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Small portions of lightly roasted and soaked nuts like almonds (3-4 soaked and peeled) and walnuts (2-3 halves). Dates (1-2) for natural sweetness and energy.",
+                "Dont": "Large quantities of raw nuts, oily nuts, or very dry fruits like raisins in excess."
+            },
+            "Milk product": {
+                "Do": "Warm, low-fat milk (1/2 cup) with warming spices like cardamom or ginger. Small amounts of yogurt (1/4 cup) mixed with water (lassi) and spices.",
+                "Dont": "Cold milk, heavy cheeses, or large quantities of dairy."
+            },
+            "Condiments": {
+                "Do": "Small amounts of warm chutneys made with fresh ginger and herbs. A pinch of rock salt (instead of table salt) can be used.",
+                "Dont": "Cold, sour, or excessively spicy condiments. Pickled items."
+            }
+        }
+    }
+}

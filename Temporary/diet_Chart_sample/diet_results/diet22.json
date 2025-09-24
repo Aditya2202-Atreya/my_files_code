@@ -1,0 +1,63 @@
+{
+    "user_info": {
+        "Prakruti": "Vata",
+        "height": 169,
+        "weight": 71,
+        "age": 64,
+        "gender": "female",
+        "Diet_habit": "Vegan",
+        "Health_condition": "Hypertension",
+        "Location": "Tokyo, Japan",
+        "Times_you_eat": "5",
+        "BMI": 24.86,
+        "BMI_Category": "Normal"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Warm, cooked grains like oats (1 cup cooked), quinoa (1 cup cooked), barley (1 cup cooked), amaranth (1 cup cooked). Prioritize cooked over raw.",
+                "Dont": "Dry, light, and cold grains like unsoaked muesli, cold cereals, and excessively processed grains."
+            },
+            "Legume": {
+                "Do": "Well-cooked and easily digestible legumes like mung beans (1/2 cup cooked), lentils (red, yellow - 1/2 cup cooked), adzuki beans (1/2 cup cooked). Soaking and sprouting are beneficial.",
+                "Dont": "Heavy, dry, and difficult-to-digest legumes like chickpeas (kalo chana), black beans, and kidney beans in large quantities."
+            },
+            "Veg": {
+                "Do": "Sweet, grounding, and cooked vegetables like sweet potatoes (1/2 cup), carrots (1/2 cup), zucchini (1 cup), pumpkin (1 cup), beets (1/2 cup), cooked asparagus (1 cup). Warm and stewed vegetables are best.",
+                "Dont": "Bitter, astringent, and raw vegetables like raw broccoli, cauliflower, Brussels sprouts, unripe fruits, and very cold vegetables."
+            },
+            "Spices": {
+                "Do": "Warming, digestive spices like ginger (1/2 inch fresh or 1 tsp powder), cumin (1/2 tsp), coriander (1/2 tsp), turmeric (1/4 tsp), cinnamon (1/4 tsp), black pepper (pinch). Use in moderation.",
+                "Dont": "Overly pungent, hot, or spicy spices that can aggravate Vata. Avoid excessive use of chili powder, raw garlic, and raw onion."
+            },
+            "Leafy veg": {
+                "Do": "Cooked leafy greens like spinach (1 cup cooked), kale (1 cup cooked), chard (1 cup cooked). Lightly steamed or saut\u00e9ed are good options.",
+                "Dont": "Raw, cold, and bitter leafy greens like large amounts of raw kale or arugula. Avoid excessive amounts of bitter greens."
+            },
+            "Oil": {
+                "Do": "Warming and nourishing oils like ghee (1 tsp), sesame oil (1 tsp), almond oil (1 tsp). Use for cooking and gentle massage.",
+                "Dont": "Cold, drying, and processed oils. Avoid excessive amounts of cold-pressed oils if they feel too cooling or drying."
+            },
+            "Fruits": {
+                "Do": "Sweet, ripe, and juicy fruits like ripe bananas (1/2), dates (2-3), figs (2-3), cooked apples or pears (1/2 cup), berries (1/2 cup). Eat at room temperature.",
+                "Dont": "Dry, light, unripe, or overly astringent fruits like cranberries, pomegranates, and unripe apples. Avoid fruits with very cold or bitter tastes."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Soaked and softened nuts and seeds like almonds (5-7 soaked), walnuts (2-3), seeds like pumpkin seeds (1 tbsp).",
+                "Dont": "Dry, raw, and unsoaked nuts and seeds in large quantities. Avoid excessively dry fruits like dried apricots or raisins without soaking."
+            },
+            "Milk product": {
+                "Do": "Warm, non-dairy milk alternatives like almond milk (1 cup warm), oat milk (1 cup warm) infused with warming spices. Small amounts of easily digestible, warm yogurt alternatives can be considered if tolerated.",
+                "Dont": "Cold, raw, or fermented milk products. Avoid cold plant-based milks and large quantities of cultured non-dairy yogurts."
+            },
+            "Non-veg": {
+                "Do": "As per vegan habit, this category is 'Dont'.",
+                "Dont": "Not applicable due to vegan diet."
+            },
+            "Condiments": {
+                "Do": "Warm and savory condiments like mild ginger pickle (1 tsp), homemade chutneys made with cooked ingredients (1 tsp), tahini (1 tsp).",
+                "Dont": "Very sour, spicy, or fermented condiments like strong vinegars, hot sauces, and overly fermented soy sauces."
+            }
+        }
+    }
+}

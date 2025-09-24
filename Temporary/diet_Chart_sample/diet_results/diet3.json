@@ -1,0 +1,59 @@
+{
+    "user_info": {
+        "Prakruti": "Vata Pitta",
+        "height": 158,
+        "weight": 76,
+        "age": 41,
+        "gender": "female",
+        "Diet_habit": "Veg",
+        "Health_condition": "Hypertension",
+        "Location": "Dubai, UAE",
+        "Times_you_eat": "5",
+        "BMI": 30.44,
+        "BMI_Category": "Obese"
+    },
+    "diet_chart": {
+        "Diet": {
+            "Grain": {
+                "Do": "Quinoa (1/2 cup cooked), Oats (1/2 cup cooked), Basmati Rice (1/2 cup cooked), Buckwheat (1/2 cup cooked). Focus on whole, grounding grains.",
+                "Dont": "Excessive refined grains like white bread, pasta, and processed cereals. Avoid over-consumption of wheat if it causes bloating."
+            },
+            "Legume": {
+                "Do": "Mung Dal (1/2 cup cooked), Red Lentils (1/2 cup cooked), Chickpeas (1/4 cup cooked, well-soaked and boiled). Opt for easily digestible dals.",
+                "Dont": "Heavy beans like kidney beans or black beans in large quantities, especially if they cause gas. Avoid fried legumes."
+            },
+            "Veg": {
+                "Do": "Cooked sweet potatoes (1/2 cup), carrots (1/2 cup), zucchini (1 cup), green beans (1 cup), pumpkin (1/2 cup). Steamed or lightly saut\u00e9ed vegetables are best.",
+                "Dont": "Raw vegetables in excess, especially cruciferous ones like broccoli and cauliflower if they cause gas. Avoid excessively bitter or dry vegetables like bitter gourd in large amounts."
+            },
+            "Spices": {
+                "Do": "Cumin, coriander, fennel, ginger, cardamom, turmeric, cinnamon (1/4 tsp each in cooking). Spices that aid digestion and reduce Vata/Pitta.",
+                "Dont": "Excessive chili, black pepper, or pungent spices that can aggravate Pitta. Avoid overly spicy and hot seasonings."
+            },
+            "Leafy veg": {
+                "Do": "Cooked spinach (1 cup), Swiss chard (1 cup), kale (cooked, 1 cup). Lightly cooked greens are well-tolerated.",
+                "Dont": "Large quantities of raw leafy greens, especially bitter varieties. Avoid excessive amounts of very cooling greens like lettuce if it exacerbates Vata."
+            },
+            "Oil": {
+                "Do": "Ghee (1-2 tsp for cooking), Sesame oil (1 tsp for external massage/light cooking), Coconut oil (1 tsp for light cooking). Warm, grounding oils.",
+                "Dont": "Excessive amounts of cold or light oils like sunflower oil. Avoid deep-fried foods."
+            },
+            "Fruits": {
+                "Do": "Sweet, ripe fruits like bananas (1/2), dates (2-3), figs (2-3), berries (1 cup), pears (1 whole). Choose fruits that are naturally sweet and grounding.",
+                "Dont": "Sour fruits like unripe citrus, cranberries. Avoid very dry fruits like apples and pomegranates in excess. Limit fermented or overly tart fruits."
+            },
+            "Nuts and Dry fruits": {
+                "Do": "Almonds (soaked, 4-5), Walnuts (2-3), Dates (2-3). Consume in moderation, well-soaked or blended if needed.",
+                "Dont": "Large quantities of dry, light nuts like peanuts or cashews if they increase Vata. Avoid roasted or salted nuts."
+            },
+            "Milk product": {
+                "Do": "Warm milk (1 cup with cardamom), Ghee (as mentioned). Moderation is key for Pitta, but warm milk can be grounding for Vata.",
+                "Dont": "Cold milk, yogurt, cheese, or ice cream. Avoid sour milk products."
+            },
+            "Condiments": {
+                "Do": "Fresh ginger chutney (small amount), Tamarind chutney (mild), Cumin powder, Coriander powder. Mild, digestive aids.",
+                "Dont": "Excessively sour, spicy, or fermented condiments. Avoid pickles in large quantities."
+            }
+        }
+    }
+}

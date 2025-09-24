@@ -1,0 +1,20 @@
+# Exclude Python virtual environment
+.venv/
+.diet_results/
+
+# Exclude local embedding script
+call_lambda.py
+Weeklydiet.json
+DietandLifeStyle.json
+input.json
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+
+# Exclude editor or OS specific files
+*.swp
+.DS_Store
+.env
