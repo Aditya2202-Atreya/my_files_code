@@ -10,6 +10,7 @@ call_lambda.py
 __pycache__/
 *.pyc
 *.pyo
+*.csv
 *.pyd
 
 # Exclude editor or OS specific files
