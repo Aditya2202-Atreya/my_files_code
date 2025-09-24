@@ -1,6 +1,6 @@
 # Exclude Python virtual environment
 .venv/
-.diet_results/
+diet_results/
 
 # Exclude local embedding script
 call_lambda.py
